@@ -1,2 +1,5 @@
 # to-do-list
-Python
+
+
+Simple application to create an own - to do list 😄
+
